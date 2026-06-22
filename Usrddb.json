@@ -11,13 +11,13 @@
         "username": "wahyu12",
         "password": "masuk12",
         "expirydate": "17-08-2026",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
-        "device_id": "48e9b54dea28ac29",
-        "username": "masuk123",
-        "password": "bbk123",
-        "expirydate": "25-06-2026",
+        "device_id": "c0566799e40315e4",
+        "username": "wahyu12",
+        "password": "masuk123",
+        "expirydate": "25-08-2026",
         "Allowoffline": false
     }
 ]
