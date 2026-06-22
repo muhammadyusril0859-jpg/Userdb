@@ -11,7 +11,7 @@
         "username": "wahyu12",
         "password": "masuk12",
         "expirydate": "17-08-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "48e9b54dea28ac29",
