@@ -47,5 +47,12 @@
         "password": "admin1",
         "expirydate": "1-07-2026",
         "Allowoffline": false
+    },
+    {   
+        "device_id": "2c9fd9d8b9012585",
+        "username": "admin",
+        "password": "admin",
+        "expirydate": "1-07-2026",
+        "Allowoffline": false
     }
 ]
