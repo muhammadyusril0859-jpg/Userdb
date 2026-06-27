@@ -61,5 +61,12 @@
         "password": "Tioramadhan666",
         "expirydate": "1-09-2026",
         "Allowoffline": false
+    },
+    {   
+        "device_id": "3cf7523c11eb81d4",
+        "username": "Login12",
+        "password": "Login12",
+        "expirydate": "1-09-2030",
+        "Allowoffline": false
     }
 ]
