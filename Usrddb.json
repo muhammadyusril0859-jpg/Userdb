@@ -89,5 +89,12 @@
         "password": "Azkanova",
         "expirydate": "1-07-2030",
         "Allowoffline": false
+    },
+    {   
+        "device_id": "7d63f69a2b7182c0",
+        "username": "faisal",
+        "password": "faisal",
+        "expirydate": "1-12-2026",
+        "Allowoffline": false
     }
 ]
