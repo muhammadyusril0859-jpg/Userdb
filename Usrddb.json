@@ -96,5 +96,12 @@
         "password": "faisal",
         "expirydate": "1-12-2026",
         "Allowoffline": false
+    },
+    {   
+        "device_id": "19b7a51e0877ceb1",
+        "username": "adamdire08",
+        "password": "Alvultron08",
+        "expirydate": "12-12-2030",
+        "Allowoffline": false
     }
 ]
