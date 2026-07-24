@@ -118,4 +118,11 @@
         "expirydate": "17-08-2030",
         "Allowoffline": false
     },
+    {   
+        "device_id": "2cba46729e143870",
+        "username": "Bagus1212",
+        "password": "Passwoard1212",
+        "expirydate": "23-08-2026",
+        "Allowoffline": false
+    },
 ]
