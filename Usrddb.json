@@ -146,6 +146,13 @@
         "expirydate": "20-08-2030",
         "Allowoffline": false
     },
+    {   
+        "device_id": "4cc976f80dd3aba9",
+        "username": "Andri Septi Maulana",
+        "password": "Andri123",
+        "expirydate": "30-12-2030",
+        "Allowoffline": false
+    },
 
     
 ]
