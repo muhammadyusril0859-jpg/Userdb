@@ -188,6 +188,12 @@
         "expirydate": "17-01-2027",
         "Allowoffline": false
     },
-    
+    {
+        "device_id": "7a99ba339c84b910",
+        "username": "serang",
+        "password": "banten",
+        "expirydate": "25-08-2030",
+        "Allowoffline": false
+    },
     
 ]
