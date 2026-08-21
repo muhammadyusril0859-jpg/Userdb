@@ -167,4 +167,12 @@
         "expirydate": "17-08-2030",
         "Allowoffline": false
     },
+    {
+        "device_id": "094df9c3e1a63d9e",
+        "username": "ene",
+        "password": "susugede",
+        "expirydate": "17-01-2027",
+        "Allowoffline": false
+    },
+    
 ]
