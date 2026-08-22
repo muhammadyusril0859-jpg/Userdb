@@ -195,5 +195,12 @@
         "expirydate": "25-08-2030",
         "Allowoffline": false
     },
+    {
+        "device_id": "2a978f4bf29ffc30",
+        "username": "pdg",
+        "password": "pdg",
+        "expirydate": "17-08-2027",
+        "Allowoffline": false
+    },
     
 ]
