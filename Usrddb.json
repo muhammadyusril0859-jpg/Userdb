@@ -216,4 +216,11 @@
         "expirydate": "23-09-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "5713bce3d7e991c0",
+        "username": "susu",
+        "password": "gede",
+        "expirydate": "17-08-2027",
+        "Allowoffline": false
+    },
 ]
