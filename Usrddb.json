@@ -223,4 +223,11 @@
         "expirydate": "17-08-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "6310d27eae1f803a",
+        "username": "pbr",
+        "password": "pbr",
+        "expirydate": "17-08-2027",
+        "Allowoffline": false
+    },
 ]
