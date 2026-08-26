@@ -230,4 +230,11 @@
         "expirydate": "17-08-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "d29ca02ede03f57a",
+        "username": "crot",
+        "password": "crot",
+        "expirydate": "17-08-2030",
+        "Allowoffline": false
+    },
 ]
