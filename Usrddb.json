@@ -244,4 +244,11 @@
         "expirydate": "30-08-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "c387398004c12493",
+        "username": "kadu",
+        "password": "kadu",
+        "expirydate": "7-07-2027",
+        "Allowoffline": true
+    },
 ]
