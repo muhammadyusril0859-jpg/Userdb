@@ -258,4 +258,11 @@
         "expirydate": "7-07-2027",
         "Allowoffline": true
     },
+    {
+        "device_id": "cf49eb1d6c2b983c",
+        "username": "Rival",
+        "password": "Seboed79",
+        "expirydate": "7-07-2030",
+        "Allowoffline": true
+    },
 ]
