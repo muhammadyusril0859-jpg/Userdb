@@ -265,4 +265,11 @@
         "expirydate": "7-07-2030",
         "Allowoffline": true
     },
+    {
+        "device_id": "96e547184847777e",
+        "username": "Muhammad09",
+        "password": "Muhammad09",
+        "expirydate": "1-10-2026",
+        "Allowoffline": false
+    },
 ]
