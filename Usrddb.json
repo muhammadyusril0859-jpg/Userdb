@@ -279,4 +279,12 @@
         "expirydate": "1-09-2030",
         "Allowoffline": false
     },
+    {
+        "device_id": "95eaae45a8a482d3",
+        "username": "maxim",
+        "password": "maxim",
+        "expirydate": "17-08-2030",
+        "Allowoffline": false
+    },
+    
 ]
